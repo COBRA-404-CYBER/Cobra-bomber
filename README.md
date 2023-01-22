@@ -18,4 +18,8 @@ pip install rich
 
 pip install bs4
 
-git clone 
+git clone https://github.com/Black-Cobra404/Cobra-bomber
+
+cd Cobra-bomber
+
+python Cobrabom.py
